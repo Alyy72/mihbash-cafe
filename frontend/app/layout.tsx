@@ -30,12 +30,23 @@ export const metadata: Metadata = {
   },
   description:
     "Mihbash Cafe & Dining · مهباش — specialty coffee, matcha, all-day breakfast. Open everyday 8:00 AM – 2:00 AM. Umm Suqeim, Dubai. قهوة مختصة، ماتشا، وفطور طوال اليوم.",
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "48x48" },
+      { url: "/favicon.png", type: "image/png", sizes: "32x32" },
+      { url: "/icon.png", type: "image/png", sizes: "192x192" },
+    ],
+    apple: [{ url: "/apple-icon.png", type: "image/png", sizes: "180x180" }],
+    shortcut: "/favicon.png",
+  },
+  themeColor: "#214274",
   openGraph: {
     title: "Mihbash Cafe & Dining · مهباش",
     description:
       "Specialty coffee, house matcha, all-day breakfast. Open everyday 8:00 AM – 2:00 AM. Umm Suqeim, Dubai.",
     locale: "en_AE",
     alternateLocale: ["ar_AE"],
+    images: [{ url: "/brand/mihbash-bar.png", width: 960, height: 420, alt: "Mihbash" }],
   },
 };
 
