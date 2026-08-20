@@ -19,10 +19,13 @@ backend/*.db
 backend/data/*.db
 
 # Node / Next.js
+node_modules/
 frontend/node_modules/
 frontend/.next/
 frontend/out/
 frontend/build/
+frontend/.open-next/
+frontend/.wrangler/
 frontend/*.tsbuildinfo
 frontend/next-env.d.ts
 
