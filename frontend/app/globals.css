@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-navy: #214274;
+  --color-navy-deep: #183257;
+  --color-silver: #c9c8cc;
+  --color-mist: #e8e7ea;
+  --color-ink: #f7f7f8;
+  --color-muted: #a8b3c7;
+  --font-sans: var(--font-manrope);
+  --font-display: var(--font-cormorant);
+}
+
+:root {
+  --background: #214274;
+  --foreground: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-navy);
+  color: white;
+  font-family: var(--font-manrope), system-ui, sans-serif;
+}
+
+::selection {
+  background: var(--color-silver);
+  color: var(--color-navy);
+}
+
+.font-display {
+  font-family: var(--font-cormorant), Georgia, serif;
+}
+
+.hairline {
+  background: linear-gradient(90deg, transparent, rgba(201, 200, 204, 0.45), transparent);
+  height: 1px;
+}
+
+.ticket {
+  background: #f7f7f8;
+  color: #214274;
+}
+
+.menu-card {
+  border-radius: 1.25rem;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(201, 200, 204, 0.18);
+}
+
+html[dir="rtl"] body {
+  font-family: var(--font-arabic), var(--font-manrope), system-ui, sans-serif;
+}
+
+html[dir="rtl"] .font-display {
+  font-family: var(--font-arabic), sans-serif;
+}
+
+html[dir="rtl"] header a,
+html[dir="rtl"] header button,
+html[dir="rtl"] footer,
+html[dir="rtl"] main {
+  letter-spacing: 0.04em;
+  text-transform: none;
+}
+
+@keyframes mihbash-menu-in {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.mobile-nav {
+  animation: mihbash-menu-in 0.38s ease-out;
+}
+
+@media print {
+  header,
+  footer,
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: white;
+    color: #214274;
+  }
+}

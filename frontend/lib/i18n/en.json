@@ -1,0 +1,370 @@
+{
+  "brand": {
+    "word": "mihbash",
+    "full": "Mihbash Cafe & Dining"
+  },
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "build": "Build",
+    "bakery": "Bakery",
+    "hours": "Hours",
+    "location": "Location",
+    "visit": "Visit",
+    "house": "House",
+    "collab": "Collab",
+    "bag": "Bag",
+    "close": "Close"
+  },
+  "home": {
+    "kicker": "Cafe & Dining",
+    "lead": "Specialty coffee, house matcha, all-day breakfast, and a dining board. Navy room, silver type — the drinks as they photograph.",
+    "browse": "Browse",
+    "board": "The board",
+    "fullMenu": "Full menu",
+    "signatures": "Signatures",
+    "bestsellers": "Bestsellers & new",
+    "build": "Build a cup",
+    "orderNow": "Order now",
+    "orderLead": "Talabat, Deliveroo, or BEANZ — tap and place the order on the app."
+  },
+  "amenities": {
+    "serviceOptions": {
+      "title": "Service options",
+      "items": ["Outdoor seating"]
+    },
+    "onSite": {
+      "title": "On-site services",
+      "items": ["Takeaway", "Dine-in"]
+    },
+    "popularFor": {
+      "title": "Popular for",
+      "items": ["Solo dining"]
+    },
+    "offerings": {
+      "title": "Offerings",
+      "items": ["Coffee", "Quick bite"]
+    },
+    "diningOptions": {
+      "title": "Dining options",
+      "items": ["Seating"]
+    },
+    "atmosphere": {
+      "title": "Atmosphere",
+      "items": ["Casual", "Trendy"]
+    },
+    "payments": {
+      "title": "Payments",
+      "items": ["Credit cards", "Debit cards", "NFC mobile payments"]
+    },
+    "children": {
+      "title": "Children",
+      "items": ["Good for kids"]
+    },
+    "parking": {
+      "title": "Parking",
+      "items": ["Free parking lot", "Plenty of parking"]
+    }
+  },
+  "menu": {
+    "live": "Live board",
+    "crumbHome": "Home",
+    "lead": "The same catalog as the QR menu — drinks on one board, dining on the other.",
+    "items": "items",
+    "categories": "categories",
+    "add": "Add to bag",
+    "bestseller": "Bestseller",
+    "new": "New",
+    "loading": "Loading board…",
+    "title": "Menu"
+  },
+  "visit": {
+    "kicker": "Location",
+    "title": "Mihbash, Umm Suqeim",
+    "lead": "Come in, or send the order from the apps. Open every day from 8:00 AM to 2:00 AM.",
+    "hours": "Hours",
+    "everyday": "Everyday",
+    "hoursValue": "8:00 AM – 2:00 AM",
+    "addressLabel": "Address",
+    "address": "651 – 1, Umm Suqeim / Jumeirah Road, Dubai",
+    "rating": "Google reviews",
+    "ratingMeta": "4.8 out of 5 · 161 reviews",
+    "photos": "The room",
+    "map": "Map",
+    "reviews": "What guests say",
+    "allReviews": "Read all reviews on Google",
+    "directions": "Directions",
+    "order": "Order on the apps",
+    "orderLead": "Tap a platform — it opens Talabat, Deliveroo, or BEANZ so you can place the order there.",
+    "seePhotos": "See photos on Google",
+    "openApp": "Open & order",
+    "instagram": "Instagram",
+    "houseAlt": "The Mihbash house",
+    "mapTitle": "Mihbash on Google Maps"
+  },
+  "platforms": {
+    "talabat": "Talabat",
+    "talabatHint": "Delivery across Dubai",
+    "deliveroo": "Deliveroo",
+    "deliverooHint": "Delivery to your door",
+    "beanz": "BEANZ",
+    "beanzHint": "Order ahead · pickup · table"
+  },
+  "collab": {
+    "kicker": "Collaborations",
+    "title": "Let’s make something together.",
+    "lead": "Brands, creators, and events have already sat at this table. Send an inquiry — it lands in our house inbox.",
+    "name": "Name",
+    "brand": "Brand / page",
+    "email": "Email",
+    "phone": "Mobile",
+    "instagram": "Instagram",
+    "type": "Type",
+    "types": {
+      "brand": "Brand partnership",
+      "creator": "Creator / influencer",
+      "event": "Event / pop-up",
+      "content": "Content / filming",
+      "other": "Other"
+    },
+    "message": "What do you have in mind?",
+    "submit": "Send inquiry",
+    "sending": "Sending…",
+    "success": "Thank you for the request. We’ll get back to you as soon as possible.",
+    "thanksTitle": "Thank you",
+    "thanksClose": "Close",
+    "ref": "Reference",
+    "error": "Could not send. Try again, or email us."
+  },
+  "shop": {
+    "kicker": "Take home",
+    "title": "Oven fresh & the house tee.",
+    "lead": "Croissants, cookies, cakes, and the matcha shirt from the bar.",
+    "all": "All",
+    "ovenFresh": "Oven fresh",
+    "desserts": "Desserts to go",
+    "merch": "House merch"
+  },
+  "team": {
+    "kicker": "Stations",
+    "title": "Coffee, matcha, kitchen.",
+    "lead": "Three stations, one navy room. The photographs are from the live menu.",
+    "members": {
+      "coffee": {
+        "name": "The coffee bar",
+        "role": "Espresso, cold blend, V60 lots",
+        "department": "Coffee",
+        "bio": "Dirty Dirty Mihbash, Spanish lattes, and a V60 list that moves from Ethiopia to PNG. This is the house shot."
+      },
+      "matcha": {
+        "name": "The matcha bar",
+        "role": "Ceremonial + house signatures",
+        "department": "Matcha",
+        "bio": "Mango sticky rice matcha, Earth Matcha, salted vanilla, houjicha foam. The shirt on the floor says the rest."
+      },
+      "kitchen": {
+        "name": "The kitchen",
+        "role": "Breakfast through bowls",
+        "department": "Dining",
+        "bio": "Unlimited pancakes until 3, then clubs, katsu, power bowls, and oven-fresh from the same pass."
+      }
+    }
+  },
+  "events": {
+    "kicker": "Hours",
+    "title": "When the house is open.",
+    "lead": "Every day from 8:00 AM to 2:00 AM. Breakfast all day. Lunch on the dining board. Unlimited pancakes from 8:00 AM to 3:00 PM.",
+    "complimentary": "Complimentary",
+    "items": {
+      "open": {
+        "kind": "House",
+        "title": "Open",
+        "time": "8:00 AM – 2:00 AM",
+        "description": "Everyday. Coffee, matcha, and the dining board until 2:00 AM."
+      },
+      "breakfast": {
+        "kind": "Kitchen",
+        "title": "Breakfast",
+        "time": "All day",
+        "description": "Breakfast all day — from open until close."
+      },
+      "lunch": {
+        "kind": "Kitchen",
+        "title": "Lunch",
+        "time": "Lunch time",
+        "description": "Lunch on the dining board, served through the day."
+      },
+      "pancakes": {
+        "kind": "Kitchen",
+        "title": "Unlimited pancakes",
+        "time": "8:00 AM – 3:00 PM",
+        "description": "Every day from 8:00 AM to 3:00 PM. Four pancakes at a time, butter, maple, and orange juice or unlimited americano."
+      }
+    }
+  },
+  "builder": {
+    "kicker": "The bar",
+    "title": "Compose a Mihbash cup — or a bowl.",
+    "lead": "Bases, milks, and add-ons from the live menu. The ticket on the right is what the barista sees.",
+    "drink": "Drink",
+    "plate": "Kitchen plate",
+    "customDrink": "Custom drink",
+    "customPlate": "Custom plate",
+    "ticket": "Barista ticket",
+    "notes": "Ticket notes",
+    "notesPlaceholder": "Allergy, extra foam, oat extra hot…",
+    "liveTotal": "Live total",
+    "incl": "incl.",
+    "vatNote": "5% VAT at checkout. Injected to Foodics with Mihbash modifiers.",
+    "steps": {
+      "base": "The base",
+      "lot": "The lot",
+      "milk": "Milk",
+      "syrups": "Syrups",
+      "temperature": "Temperature",
+      "extras": "Extras",
+      "bowl": "Bowl",
+      "protein": "Protein",
+      "sauce": "Sauce",
+      "addons": "Add-ons"
+    },
+    "options": {
+      "house": {
+        "label": "House espresso",
+        "detail": "Mihbash cold coffee blend / house shot"
+      },
+      "ethiopia": {
+        "label": "Ethiopia beans",
+        "detail": "Specialty bean upgrade"
+      },
+      "v60": {
+        "label": "V60 lot",
+        "detail": "Ask the bar for today’s origin"
+      },
+      "whole": {
+        "label": "Mihbash milk",
+        "detail": "House dairy — included"
+      },
+      "none": {
+        "label": "No extra flavour",
+        "detail": "As written"
+      },
+      "salted-vanilla": {
+        "label": "Salted vanilla foam",
+        "detail": "The Dirty Dirty finish"
+      },
+      "maple": {
+        "label": "Salted maple",
+        "detail": "From the iced brew"
+      },
+      "dulce": {
+        "label": "Dulce de leche foam",
+        "detail": "Woody’s Latte"
+      },
+      "hot": {
+        "label": "Hot",
+        "detail": "Steamed"
+      },
+      "iced": {
+        "label": "Iced",
+        "detail": "Extra cold, as the specials are served"
+      },
+      "as-written": {
+        "label": "As written",
+        "detail": "Chef’s default protein"
+      },
+      "chicken": {
+        "label": "Chicken",
+        "detail": "The-warma / power bowl swap"
+      },
+      "beef": {
+        "label": "Beef",
+        "detail": "The-warma beef"
+      },
+      "salmon": {
+        "label": "Salmon teriyaki",
+        "detail": "Bowl upgrade"
+      },
+      "chimichurri": {
+        "label": "Chimichurri",
+        "detail": "Power bowls"
+      },
+      "tahini": {
+        "label": "Tahini",
+        "detail": "The-warma"
+      },
+      "sriracha-mayo": {
+        "label": "Sriracha Japanese mayo",
+        "detail": "Salmon teriyaki"
+      },
+      "kewpie": {
+        "label": "Kewpie / spicy mayo",
+        "detail": "Sandwiches"
+      }
+    }
+  },
+  "cart": {
+    "empty": "The bag is empty.",
+    "emptyLead": "Start with the board, bakery, or a custom cup.",
+    "title": "Your bag",
+    "remove": "Remove",
+    "summary": "Summary",
+    "subtotal": "Subtotal",
+    "vat": "VAT 5%",
+    "total": "Total",
+    "checkout": "Checkout"
+  },
+  "checkout": {
+    "kicker": "Checkout",
+    "title": "Who is this cup for?",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Mobile (without 971)",
+    "room": "Pickup room",
+    "fulfillment": "Fulfillment",
+    "pickup": "Pickup",
+    "delivery": "Delivery",
+    "payment": "Payment",
+    "notes": "Kitchen notes",
+    "pay": "Pay",
+    "authorising": "Authorising…",
+    "order": "Order",
+    "demoCard": "Demo card (local)",
+    "note": "Stripe and Ziina return a client secret or hosted checkout. The demo gateway confirms instantly, then Foodics gets the ticket.",
+    "failed": "Checkout failed"
+  },
+  "staff": {
+    "title": "Collaboration inbox",
+    "token": "Staff token",
+    "unlock": "Open inbox",
+    "empty": "No inquiries yet.",
+    "status": "Status"
+  },
+  "footer": {
+    "boards": "Boards",
+    "drinks": "Drinks",
+    "dining": "Dining",
+    "visit": "Visit",
+    "prices": "Prices in AED",
+    "hours": "Everyday 8:00 AM – 2:00 AM",
+    "credit": "Built with",
+    "instagram": "Instagram",
+    "call": "Call",
+    "blurb": "Mihbash Cafe & Dining. Specialty coffee, matcha, all-day breakfast.",
+    "copyright": "Mihbash Cafe & Dining · مهباش"
+  },
+  "common": {
+    "openMap": "Open map"
+  },
+  "confirm": {
+    "kicker": "Confirmed",
+    "title": "The kitchen has the ticket.",
+    "loading": "Fetching receipt…",
+    "missing": "We could not find that ticket.",
+    "back": "Back to the menu",
+    "receipt": "Receipt",
+    "paidVia": "Paid via",
+    "print": "Print receipt",
+    "again": "Order again"
+  }
+}
